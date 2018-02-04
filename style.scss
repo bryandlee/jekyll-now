@@ -30,9 +30,9 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 1200px;
+  max-width: 1000px;
   width: 100%;
-  @media screen and (min-width: 641px) and (max-width: 1250px)
+  @media screen and (min-width: 641px) and (max-width: 1200px)
   {
      padding: 0 7.5%;
   }
